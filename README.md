@@ -3,6 +3,8 @@
 ## 🚀 About Me
 
 💻 Passionate about Linux, DevOps, Automation, and Cloud Technologies.
+and 
+Java backend developer
 
 🔧 I have hands-on experience building real-world projects involving:
 
